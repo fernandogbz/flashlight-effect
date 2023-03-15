@@ -11,3 +11,8 @@ p {
   line-height: 1.8em;
   padding: 0 2em;
 }
+
+#flashlight {
+  --Xpos: 50vw;
+  --Ypos: 50vh;
+}
