@@ -4,3 +4,10 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
+p {
+  font-size: 1em;
+  text-align: justify;
+  line-height: 1.8em;
+  padding: 0 2em;
+}
