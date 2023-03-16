@@ -22,4 +22,5 @@ function getMousePosition(e) {
   flashlight.style.setProperty("--Ypos", mouseY + "px");
 }
 
-document.addEventListener("mousemove", getMousePosition);
+document.addEventListener("mousemove",getMousePosition);
+document.addEventListener("touchmove",getMousePosition);
